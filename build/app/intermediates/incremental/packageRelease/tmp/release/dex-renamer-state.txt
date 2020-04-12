@@ -1,0 +1,4 @@
+#Sat Apr 11 21:09:55 CEST 2020
+base.0=/Users/chrishardaker/Development/survivor/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
